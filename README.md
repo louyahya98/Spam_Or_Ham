@@ -74,7 +74,7 @@ Ce projet est un prototype à but pédagogique. Pour un usage réel :
 
 ## 📌 Auteur
 
-Projet réalisé par [Ton Nom], 2025.
+Projet réalisé par [Lahcen Ouyahya], 2025.
 
 ---
 
